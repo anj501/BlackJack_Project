@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9905501&assignment_repo_type=AssignmentRepo)
 
 # Blackjack
+ > For files, CPP files are in the src folder, test files in the test folder, and header files in the header folder, while other files listed are correctly titled.
+ >
  > Authors: [Anderson Wu (anderthenoob)](https://github.com/anderthenoob),
             [Casey Le (Axiion8)](https://github.com/Axiion8),
             [Justin An (anj501)](https://github.com/anj501),
