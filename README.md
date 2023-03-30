@@ -2,6 +2,8 @@
 
 # Blackjack
  > For files, CPP files are in the src folder, test files in the test folder, and header files in the header folder, while other files listed are correctly titled.
+ > 
+ > (Note: This game does not use real money)
  >
  > Authors: [Anderson Wu (anderthenoob)](https://github.com/anderthenoob),
             [Casey Le (Axiion8)](https://github.com/Axiion8),
